@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Trainer App",
+  "description": "Universal multilingual exam trainer and test constructor for any subject in English, Ukrainian, Russian, and Spanish, featuring the complete 140-question EFVV Linguistics bank, configurable timers, smart bulk import, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
