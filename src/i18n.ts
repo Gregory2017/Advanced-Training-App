@@ -301,8 +301,8 @@ export const translations: Record<UILanguage, Translations> = {
       starterPacksTitle: "Демо-набори з інших предметів та мов",
       starterPacksDesc: "Додайте приклади тестів англійською, іспанською чи російською мовами одним кліком.",
       addStarterPackBtn: "Додати набір",
-      resetToInitialBtn: "Відновити початкові 140 питань ЄФВВ",
-      resetConfirmText: "Базу відновлено до початкових 140 питань ЄФВВ з мовознавства!",
+      resetToInitialBtn: "Відновити початкові 300 питань",
+      resetConfirmText: "Базу відновлено до початкових 300 питань!",
     },
     bank: {
       title: "Керування базою питань",
@@ -466,8 +466,8 @@ export const translations: Record<UILanguage, Translations> = {
       starterPacksTitle: "Multilingual Subject Starter Packs",
       starterPacksDesc: "Add sample question sets in English, Spanish, or Russian with a single click.",
       addStarterPackBtn: "Add Pack",
-      resetToInitialBtn: "Restore Default 140 EFVV Linguistics Questions",
-      resetConfirmText: "Question bank restored to the initial 140 EFVV Linguistics questions!",
+      resetToInitialBtn: "Restore Default 300 Initial Questions",
+      resetConfirmText: "Question bank restored to the initial 300 questions!",
     },
     bank: {
       title: "Question Bank Manager",
@@ -631,8 +631,8 @@ export const translations: Record<UILanguage, Translations> = {
       starterPacksTitle: "Paquetes de Ejemplo Multilingües",
       starterPacksDesc: "Añade colecciones de muestra en inglés, español o ruso con un clic.",
       addStarterPackBtn: "Añadir Paquete",
-      resetToInitialBtn: "Restaurar las 140 preguntas iniciales de Lingüística EFVV",
-      resetConfirmText: "¡Banco restaurado a las 140 preguntas iniciales!",
+      resetToInitialBtn: "Restaurar las 300 preguntas iniciales",
+      resetConfirmText: "¡Banco restaurado a las 300 preguntas iniciales!",
     },
     bank: {
       title: "Gestor del Banco de Preguntas",
@@ -796,8 +796,8 @@ export const translations: Record<UILanguage, Translations> = {
       starterPacksTitle: "Демо-наборы по разным предметам и языкам",
       starterPacksDesc: "Добавьте примеры тестов на английском, испанском или русском языках одним кликом.",
       addStarterPackBtn: "Добавить набор",
-      resetToInitialBtn: "Восстановить исходные 140 вопросов ЄФВВ",
-      resetConfirmText: "База восстановлена до исходных 140 вопросов ЄФВВ по языкознанию!",
+      resetToInitialBtn: "Восстановить исходные 300 вопросов",
+      resetConfirmText: "База восстановлена до исходных 300 вопросов!",
     },
     bank: {
       title: "Управление базой вопросов",

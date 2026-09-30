@@ -18,10 +18,10 @@ import { AnalyticsView } from "./components/AnalyticsView";
 import { Clock, X } from "lucide-react";
 
 const STORAGE_KEYS = {
-  QUESTIONS: "advanced_trainer_questions_v1",
-  ANSWERS: "advanced_trainer_answers_v1",
-  BOOKMARKS: "advanced_trainer_bookmarks_v1",
-  HISTORY: "advanced_trainer_exam_history_v1",
+  QUESTIONS: "advanced_trainer_questions_canlit_300_v2",
+  ANSWERS: "advanced_trainer_answers_canlit_v2",
+  BOOKMARKS: "advanced_trainer_bookmarks_canlit_v2",
+  HISTORY: "advanced_trainer_exam_history_v2",
   LANG: "advanced_trainer_ui_lang_v1",
 };
 
@@ -32,7 +32,7 @@ export default function App() {
     if (saved === "uk" || saved === "en" || saved === "es" || saved === "ru") {
       return saved;
     }
-    return "uk";
+    return "en";
   });
 
   useEffect(() => {
